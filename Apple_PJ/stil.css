@@ -1,0 +1,78 @@
+#logo       {
+	position: absolute;
+	margin-top:100px;
+	margin-left:152px;
+	width:908px;
+	height:250px;
+	border:1px;
+                border-style:solid;
+                background-image: url(slike/zaglavlje.jpg) 
+                }
+
+#meni      {
+	position:absolute;
+	margin-top:350px;
+	margin-left:890px;
+	width:100px;
+	height:440px;
+	padding:35px;
+	border:1px;
+	text-align:center;
+	border-style:solid;
+	background-color:#6D7B8D;
+	font:Verdana;
+	font-size:12px;
+	background-image: url(slike/meni.jpg);
+	}
+		 
+#sadrzaj  {
+	position:absolute;
+	margin-top:350px;
+	margin-left:152px;
+                width:678px;
+	height:450px;
+	padding:30px;
+	overflow:auto;
+	background-color: white;
+	text-align:justify;
+	font-family:Verdana;
+	font-size:13px;
+                }
+	
+#dno        {
+	position:absolute;
+	margin-top:860px;
+	margin-left:152px;
+	width:888px;
+	height:30px;
+	padding:10px;
+	font-family:Verdana;
+	font-size:11px;
+	background-color: rgb(255,255,255);
+	text-align:center;
+	border:1px;
+	border-style:solid;
+	border-color:#6D7B8D;
+                }
+
+h1.naslov {	
+	color:#6D7B8D;
+                font-family:Verdana, Geneva, sans-serif;
+	text-align:center;
+	}
+
+h3.naslov {
+	color:#6D7B8D;
+	font-family:Verdana, Geneva, sans-serif;
+	text-align:center;
+}
+
+a:visited {
+               color:#6D7B8D;
+              }
+a:hover {
+              color: yellow;
+             } 
+a:active {
+    color:#FFFFFF;
+             }
