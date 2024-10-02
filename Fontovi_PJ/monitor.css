@@ -1,0 +1,36 @@
+#glavni {
+width: 960px;
+border-width:1px;
+border-color:#FC0001;
+border-decoration: solid;
+background-color: white; 
+}
+
+#logo{
+	height: 200px;
+	background-image:url(logo.jpg);
+}
+
+
+#menu {
+	height:25px;
+	background-color:#FC0001;
+	}
+	
+#dno {height:20px;
+background-color: #FC0001;
+text-align: center;
+	}	
+	
+	
+	
+	
+a.visited {
+	color:#FFFFFF;
+}
+a.link{
+	color:#FFFFFF;
+}
+a.hover  { 
+color:white; 
+}

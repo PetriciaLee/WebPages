@@ -1,0 +1,52 @@
+<html>
+<head>
+<meta>
+<meta name="author" content="Petra Jakopovic">
+<meta name="keywords" content="font,tipografija">
+<meta name="description" content="inicijalna vjezba,Web projekti 3.w">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Naslovna</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<link rel="stylesheet" type="text/css" href="file:///C|/Users/računalo5/Desktop/Fontovi_PJ/monitor.css">
+
+<div id="glavni"></div>
+<div id="logo"></div>
+<div id="menu">
+<table>
+ <tr>
+ <td 50></td>
+  <td 90> Naslovna <a href="file:///C|/Users/računalo5/Desktop/Fontovi_PJ/Templates/naslovna.html"></a> </td>
+<td 90>Tipovi fonta <a href="file:///C|/Users/računalo5/Desktop/Fontovi_PJ/Templates/tipovi.html"></a></td>
+<td 90> Formati fontova <a href="file:///C|/Users/računalo5/Desktop/Fontovi_PJ/Templates/formati.html"></a> </td>
+<td 90> Web safe fontovi <a href="file:///C|/Users/računalo5/Desktop/Fontovi_PJ/Templates/web.html"></a></td>
+<td 90> CSS fontovi <a href="file:///C|/Users/računalo5/Desktop/Fontovi_PJ/Templates/cssfontovi.html"></a> </td>
+<td 90> Kontakt <a href="file:///C|/Users/računalo5/Desktop/Fontovi_PJ/Templates/kontakt.html"></a></td>
+<td 90 > Literatura <a href="file:///C|/Users/računalo5/Desktop/Fontovi_PJ/Templates/literatura.html"></a> </td>
+<td 50></td>
+ </tr>
+</table>
+</div>
+
+<div id="sadrzaj"> 
+<h1>Font</h1>
+<p>Font je elektronički niz podataka (engleski: data file) u kojem se nalazi skup slovnih znakovnika (engleski: glyph), i slovnih simbola (tipografskih) poput slovnih ornamenata (engleski: dingbat). Termin font isprva se upotrebljavao za skup metalnih slova jedne veličine i jednog tipa slova (jednog tipografskog karaktera), od 1990. fontovi su uglavnom digitalni i upotrebljavaju se u računalstvu.
+Postoje tri osnovna tipa računalnih fontova (podatkovnih formata):
+    Bitmap (rasterski) fontovi, sastoje se od serije točaka (engleski: dot ili pixel) koji prikazuju sliku svakog slovnog znaka, svakog slovnog karaktera i njegove veličine.
+    Obrisni (outline) fontovi (koje zovemo i vektorskim fontovima) služe se skupom matematičkih instrukcija; Bézierova krivulja za iscrtavanje svakog slovnog znaka (glifa), na taj način je slovo skalabilno na bilo koju veličinu.
+    Linijski (stroke) fontovi služe se skupom specifičnih linija i posebnih informacija da opišu profil, veličinu i oblik linije svakog lika, oni zajedno opisuju pojavu znakovnika.
+    <img src="../slika1.jpg">
+</p>
+
+
+
+</div>
+<div id="dno">
+<p align="center"> &copy;Petra Jakopovic,2016. </div>
+
+</body>
+</html>

@@ -1,0 +1,47 @@
+<html>
+<head>
+<meta>
+<meta name="author" content="Petra Jakopovic">
+<meta name="keywords" content="font,tipografija">
+<meta name="description" content="inicijalna vjezba,Web projekti 3.w">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Naslovna</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<link rel="stylesheet" type="text/css" href="file:///C|/Users/računalo5/Desktop/Fontovi_PJ/monitor.css">
+
+
+<div id="logo"></div>
+<div id="menu">
+<table>
+ <tr>
+  <td> Naslovna <a href="file:///C|/Users/računalo5/Desktop/Fontovi_PJ/Templates/naslovna.html"></a> </td>
+<td>Tipovi fonta <a href="file:///C|/Users/računalo5/Desktop/Fontovi_PJ/Templates/tipovi.html"></a></td>
+<td> Formati fontova <a href="file:///C|/Users/računalo5/Desktop/Fontovi_PJ/Templates/formati.html"></a> </td>
+<td> Web safe fontovi <a href="file:///C|/Users/računalo5/Desktop/Fontovi_PJ/Templates/web.html"></a></td>
+<td> CSS fontovi <a href="file:///C|/Users/računalo5/Desktop/Fontovi_PJ/Templates/cssfontovi.html"></a> </td>
+<td> Kontakt <a href="file:///C|/Users/računalo5/Desktop/Fontovi_PJ/Templates/kontakt.html"></a></td>
+<td> Literatura <a href="file:///C|/Users/računalo5/Desktop/Fontovi_PJ/Templates/literatura.html"></a> </td>
+ </tr>
+</table>
+</div>
+
+<div id="sadrzaj"> 
+
+<h1>CSS font</h1>
+<p>U tipografiji pojam font predstavlja komplet znakova pisma iste veličine, stila i oblika. Tipografija se kao umjetnost i tehnika oblikovanja tipiziranog pisma razvija još od antičkih vremena. Web tipografija je razumljivo mnogo mlađa i započinje uvođenjem HTML taga 1995. godine. Razvojem CSS-a tag se napušta i web fontovi se specificiraju pomoću pet osnovnih CSS karakteristika i to definiranjem obitelji (font-family), stila (font-style), varijacije (font-variant), debljine (font-weight) i veličine fonta (font-size).</p>
+<h2>CSS karakteristika font-family</h2>
+<p>Obitelji fontova (font-family) mogu biti generičke i to serif, sans serif, monospace, cursive i fantasy, a svaka od generičkih obitelji fontova sadrži brojne obitelji fontova sa posebnim nazivima. Serif je detalj na krajevima slova, a sans serif je generička obitelj fontova bez tog detalja. Razliku serif i sans serif fontova će najbolje ilustrirati sljedeća slika. U serif fontove spadaju Times New Roman, Bodoni, Garamond, Minion Web, ITC Stone Serif, MS Georgia, Bitstream Cyberbit, itd. Predstavnici sans serif obitelji su MS Trebuchet, ITC Avant Garde Gothic, MS Arial, MS Verdana, Univers, Futura, Grotesk i Helvetica. Kod monospace fontova (Courier, MS Courier New, Prestige, Everson Mono, itd.), svaki znak ima istu širinu. Cursive fontovi (Caflisch Script, Adobe Poetica, Sanvito, Ex Ponto) simuliraju pisani rukopis, dok se fantasy fontovi (Alpha Geometrique, Critter, Cottonwood) uglavnom koriste u dekorativne svrhe. Izgled serif, sans serif i monospace fontova možete usporediti na sljedećoj slici.
+<img src="../slika2.png">
+</p>
+
+</div>
+<div id="dno">
+<p align="center"> &copy;Petra Jakopovic,2016. </div>
+
+</body>
+</html>

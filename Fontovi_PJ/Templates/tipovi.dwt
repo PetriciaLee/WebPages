@@ -1,0 +1,54 @@
+<html>
+<head>
+<meta>
+<meta name="author" content="Petra Jakopovic">
+<meta name="keywords" content="font,tipografija">
+<meta name="description" content="inicijalna vjezba,Web projekti 3.w">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Naslovna</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<link rel="stylesheet" type="text/css" href="file:///C|/Users/računalo5/Desktop/Fontovi_PJ/monitor.css">
+
+
+<div id="logo"></div>
+<div id="menu">
+<table>
+ <tr>
+  <td> Naslovna <a href="file:///C|/Users/računalo5/Desktop/Fontovi_PJ/Templates/naslovna.html"></a> </td>
+<td>Tipovi fonta <a href="file:///C|/Users/računalo5/Desktop/Fontovi_PJ/Templates/tipovi.html"></a></td>
+<td> Formati fontova <a href="file:///C|/Users/računalo5/Desktop/Fontovi_PJ/Templates/formati.html"></a> </td>
+<td> Web safe fontovi <a href="file:///C|/Users/računalo5/Desktop/Fontovi_PJ/Templates/web.html"></a></td>
+<td> CSS fontovi <a href="file:///C|/Users/računalo5/Desktop/Fontovi_PJ/Templates/cssfontovi.html"></a> </td>
+<td> Kontakt <a href="file:///C|/Users/računalo5/Desktop/Fontovi_PJ/Templates/kontakt.html"></a></td>
+<td> Literatura <a href="file:///C|/Users/računalo5/Desktop/Fontovi_PJ/Templates/literatura.html"></a> </td>
+ </tr>
+</table>
+</div>
+
+<div id="sadrzaj"> 
+<h1>Tipovi fontova</h1>
+<h2>
+Bitmap (rasterski) fontovi</h2>
+<p>Bitmap (rasterski) font je tip računalnog slova koji pohranjuje svaki znakovnik (glyph) kao niz točaka (pixela) a to tvori bitmapu (sliku od točaka). Ponekad se ovaj tip zove i rasterski font. Pojednostavljeno rečeno bitmap font je skup rastriranih slovnih znakova (ikona) svakog slova ponaosob. Za svaku inačicu tog fonta, mora postojati kompletan niz sličica znakova. Tako recimo za font koji ima tri veličine, i kombinaciju podebljano (bold) i italic (nakošeno), mora postojati 12 kompleta sličica slovnih znakova.</p>
+
+<h2>Outline fontovi</h2>
+<p>Outline fontovi ili vektorski fontovi su zbirke vektorskih slika, odnosno skup linija i krivulja koje opisuju granice znakovnika glyphs. Raniji vektor fontovi su se koristili kod vektorskih zaslona i vektorskih plotera,uporabljujući vlastite interne fontove, uporabljajući tanke pojedinačne linie umjesto podebljano ocrtanih znakovnika. Izazov stolnog izdavaštva iznjedrio je potrebu za univerzalnim standardom kod integracije grafičkog korisničkog sučelja kod prvog Macintosh računala i laserskog pisača.</p>
+
+<h2>Linijski ( stroke ) fontovi</h2>
+<p>Obris znakovnika ( glypha) je opisan vrhovima pojedine linije i profilom linije. Prednost u odnosu na obrisne ( outline) fontove uključuje smanjenje broja vrhova koji su potrebni da se opiše znakovnik, dopuštajući da se isti vrhovi upotrebljavaju da iscrtaju font druge debljine, ili veličine, ili serifa koristeći drugačija pravila za linije i pripadajuće količine kod spremanja. Za kreatora fonta, editiranje znakovnika pomoću linije je lakše i manje sklono greškama negoli kreiranje obrisa. 
+
+</p>
+
+
+
+</div>
+<div id="dno">
+<p align="center"> &copy;Petra Jakopovic,2016. </div>
+
+</body>
+</html>
