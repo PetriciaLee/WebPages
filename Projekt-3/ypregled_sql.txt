@@ -1,0 +1,76 @@
+CREATE TABLE Pacijent
+(
+ID_Pacijent INT(15) NOT NULL AUTO_INCREMENT,
+Ime_prezime VARCHAR(15) ,
+Adresa VARCHAR (15) ,
+OIB VARCHAR (15) ,
+CONSTRAINT pk_Pacijent PRIMARY KEY (ID_Pacijent) 
+);
+
+
+
+INSERT INTO Pacijent VALUES ('','','','');
+INSERT INTO Pacijent VALUES ('','','','');
+INSERT INTO Pacijent VALUES ('','','','');
+INSERT INTO Pacijent VALUES ('','','','');
+INSERT INTO Pacijent VALUES ('','','','');
+
+
+CREATE TABLE Lijeènik
+(
+ID_Lijeènik INT(15) NOT NULL AUTO_INCREMENT,
+Ime_prezime VARCHAR(15) ,
+Specijalizacija VARCHAR(15) ,
+CONSTRAINT pk_Lijeènik PRIMARY KEY (ID_Lijeènik)
+); 
+
+INSERT INTO Lijeènik VALUES ('','','');
+INSERT INTO Lijeènik VALUES ('','','');
+INSERT INTO Lijeènik VALUES ('','','');
+INSERT INTO Lijeènik VALUES ('','','');
+INSERT INTO Lijeènik VALUES ('','','');
+
+
+CREATE TABLE Pregled
+(
+ID_Pregled INT(15) NOT NULL AUTO_INCREMENT,
+Pacijent INT(15),
+Lijeènik INT(15),
+Datum VARCHAR(15),
+CONSTRAINT pk_Pregled PRIMARY KEY (ID_Pregled),
+CONSTRAINT fk_Pacijent FOREIGN KEY (Pacijent) REFERENCES Pacijent(ID_Pacijent),
+CONSTRAINT fk_Lijeènik FOREIGN KEY (Lijeènik) REFERENCES Lijeènik(ID_Lijeènik)
+); 
+
+
+INSERT INTO Pregled VALUES ('','','','');
+INSERT INTO Pregled VALUES ('','','','');
+INSERT INTO Pregled VALUES ('','','','');
+INSERT INTO Pregled VALUES ('','','','');
+INSERT INTO Pregled VALUES ('','','','');
+
+
+#Upit1
+SELECT Ime_prezime
+FROM Lijeènik and Pacijent
+
+#Upit2
+SELECT Datum
+FROM Pregled
+
+#Upit3
+SELECT Ime_prezime
+FROM Pacijent
+
+#Upit4
+SELECT Ime_prezime, Specijalizacija
+FROM Lijeènik
+WHERE ''
+IN (
+''
+)
+
+#Upit5
+SELECT * 
+FROM Pregled
+WHERE Datum >=6.6.2017.
