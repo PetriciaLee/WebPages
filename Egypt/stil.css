@@ -1,0 +1,101 @@
+#glavni{
+    width:1024px;
+    margin:0 auto;
+    background-color:#d2b48c;
+    }
+    
+#logo{
+    width:1024px;
+    background-image:url(slike/logo.png);
+    height: 200px;
+    }
+
+#sadrzaj{
+    
+    width:800px;
+    text-align:justify;
+    font-family:Comic Sans MS;
+    color:black;
+    background-color:#f1e8dc;
+    min-height:650px;
+    float: left;
+    padding: 10px;
+}   
+       
+#sadrzaj1{
+    width:204px;
+    min-height:670px;
+    background-color:#e4d2ba;
+    float: right;
+        }
+        
+#dno{
+    letter-spacing: 1px;
+    line-height: 150px;
+    text-align:center;
+    height:150px;
+    clear: both; 
+    height:150px;
+    background-color:#a89070;
+    color:#e4d2ba;
+}        
+
+#meni {
+    height:50px;
+    background-color:#d2b48c ;
+    text-align:center;
+    font-family:Comic Sans MS;
+    color:#7e6c54;
+    font-size:17px;
+}
+
+#meni ul { 
+	height:50px; 
+	list-style:none; 
+	padding:0; 
+    margin-top: 0px;
+	margin-left: 10px;
+    float:left;
+	}
+#meni li{
+    float: left;
+}
+
+#meni li a {
+    color:#7e6c54;
+    padding: 0 5;
+    line-height: 50px;
+    display: block;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+#meni li a:hover, a:active {
+    color:white;
+    display: block;
+    background-color: #a89070;
+    
+}
+
+
+
+h1 {
+    text-align:center;
+    color:black;
+    font-family:Verdana, Geneva, sans-serif;
+    font-size:25px;
+}
+
+h4 {
+    color:#333333;
+    font-family:Verdana, Geneva, sans-serif;
+}
+p{
+    font-size:18px;
+}
+
+body{ 
+    background-image: url(slike/pozadina.jpg);
+    border-image-repeat: repeat;
+}
+
