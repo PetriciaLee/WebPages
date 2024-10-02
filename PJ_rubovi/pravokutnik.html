@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#pravokutnik {
+    width: 300px;
+    height: 100px;
+    background-color: yellow;
+    border: 1px dotted red;
+    -ms-transform: translate(50px,100px); /* IE 9 */
+    -webkit-transform: translate(50px,100px); /* Safari */
+    transform: translate(50px,100px); /* Standard syntax */
+}
+#pravokutnik2{
+	width: 300px;
+    height: 100px;
+    background-color: yellow;
+    border: 1px solid black;
+	}
+	#div#myDiv{
+    -ms-transform: rotate(50deg); /* IE 9 */
+    -webkit-transform: rotate(50deg); /* Safari */
+    transform: rotate(50deg); /* Standard syntax */
+		}
+#margine{
+	margin: 150px;
+    width: 200px;
+    height: 100px;
+    background-color: yellow;
+    border: 1px solid black;
+    border: 1px solid black;
+    -ms-transform: scale(2,3); /* IE 9 */
+    -webkit-transform: scale(2,3); /* Safari */
+    transform: scale(2,3); /* Standard syntax */
+			}
+#iskrivljeno{
+	width: 300px;
+    height: 100px;
+    background-color: yellow;
+    border: 1px solid black;
+	}		
+#iskrivljeno {
+    -ms-transform: skewX(20deg); /* IE 9 */
+    -webkit-transform: skewX(20deg); /* Safari */
+    transform: skewX(20deg); /* Standard syntax */
+</style>
+</head>
+<body>
+
+<p id="pravokutnik">
+The translate() pomiče elemente sa poč.pozicije. Ovaj div element je pomaknut za 50px u desno i za 100px dolje od njegove poč.pozicije.
+</p>
+<p id="pravokutnik2">Ovo je normalan div.</p>
+<p id="div#myDiv"> Ovo je vertikalan div</p>
+<p id="margine"> Ovaj div je dvaputa veći od originalne veličine.</p>
+<p id="iskrivljeno">The skexX() method skews an element along...</p>
+</style>
+</body>
+</html>
