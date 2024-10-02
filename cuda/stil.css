@@ -1,0 +1,161 @@
+#glavni {
+	margin:0 auto;
+	width:1024px;
+}
+
+
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: 22px;
+	color:#000;
+}
+
+
+#sadrzaj {
+	width:1024px;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+	color:black;
+}
+
+
+#logo {
+	background-image:url("slike/logo.jpg");
+	}
+
+
+#meni {
+	float: left;
+	width: 1024px;
+	background:#203c39;
+	
+}
+
+
+#meni ul {
+	margin: 0;
+	padding: 0;
+}
+
+
+#meni ul li {
+	list-style-type: none;
+	display: inline;
+}
+
+
+#meni li a {
+	display: block;
+	float: left;
+	padding: 5px 10px;
+	color: #fff;
+	text-decoration: none;
+	border-right: 1px solid #fff;
+}
+
+
+#meni li a:hover {
+	 background: #347f92;
+}
+
+#sadrzaj {
+	float: left;
+	width: 720px;
+	padding: 20px 0;
+	margin: 0 0 0 20px;
+	display: inline;
+}
+
+
+#desno1 {
+	float: right;
+	width: 180px;
+	padding: 5px;
+	margin: 20px 20px 0 0;
+	background-color:#d1cfb0;
+	border-color:#F90;
+	border:1px;
+	border-style:dotted;
+}
+
+#desno2 {
+	float: right;
+	width: 180px;
+	padding: 5px;
+	margin: 20px 20px 0 0;
+	background-color:#d1cfb0;
+	border-color:#F90;
+	border:1px;
+	border-style:dotted;
+}
+
+#dno1 {
+	clear: both;
+	width: 180px;
+	padding: 5px;
+	margin: 20px 22px 0 0;
+	background-color:#d1cfb0;
+	border-color:#F90;
+	border:1px;
+	border-style:dotted;
+	}
+
+#dno2 {
+	width: 180px;
+	padding: 5px;
+	margin: -220px 22px 0 200px;
+	background-color:#d1cfb0;
+	border-color:#F90;
+	border:1px;
+	border-style:dotted;
+	}
+
+#dno3 {
+	width: 180px;
+	padding: 5px;
+	margin: -220px 22px 0 400px;
+	background-color:#d1cfb0;
+	border-color:#F90;
+	border:1px;
+	border-style:dotted;
+	}
+	
+#dno4 {
+	width: 180px;
+	padding: 5px;
+	margin: -220px 22px 0 600px;
+	background-color:#d1cfb0;
+	border-color:#F90;
+	border:1px;
+	border-style:dotted;
+	}
+	
+#dno5 {
+	width: 180px;
+	padding: 5px;
+	margin: -220px 22px 0 800px;
+	background-color:#d1cfb0;
+	border-color:#F90;
+	border:1px;
+	border-style:dotted;
+	}
+
+#dno {
+	clear: both;
+	background:#203c39;
+	text-align: center;
+	padding: 5px;
+	color:#fff;
+	height: 1%;
+	width:1024px;
+	margin-top:30px;
+	}
+	
+
+ p {
+ text-align: justify;
+ }
+ 
+ 
