@@ -1,0 +1,105 @@
+@charset "utf-8";
+
+body {
+    /* margin:0;
+    padding: 0; */
+	font-family: "Comic Sans MS";
+	font-size: 16px;
+	line-height:normal;
+	background-color:#4a0e1c;
+}
+
+#box {
+	margin: 0px auto;
+	width: 900px;
+    background-color: #c7d690;
+}
+
+#logo {
+    background-color: #3b3a2b;
+	height: 300px;
+	width: 900px;
+    background-image: url(slike/logo.png);
+}
+
+#glavno {
+	padding: 10px;
+	width: 880px;
+    min-height: 400px; 
+}
+
+#dno {
+    /* clear:both; */
+	font-size: 12px;
+    font-family: "Lucida Handwriting";
+	font-style: italic;
+	width: 900px;
+    height:30px;
+	padding-top: 15px;
+	text-align:center;
+    background-color: #aa5864;
+}
+
+#meni { 
+    text-align:center;
+    background-color:#aa5864;
+    font-family: "Lucida Calligraphy";
+    font-size:18px;
+    width:900px;
+    height:35px;
+    word-spacing:5px;
+
+}
+
+#meni ul { 
+	height:35px; 
+	list-style:none; 
+	padding:0; 
+    margin-top: 0px;
+	margin-left: 25px;
+	}
+	
+#meni li {
+		float:left; 
+		padding:0px;
+}
+		
+#meni li a{ 
+	background:#d4afab;
+	color:white;
+	display:block; 
+	line-height:35px; 
+	margin:0px;
+	text-decoration:none;
+	transition:1s;  
+	padding: 0px 70px 0px 70px; 
+	width: auto;
+	/*border-radius:15px;*/  
+		
+}
+
+#meni li a:hover, #meni ul li:hover a { 
+    background:#aa5864; 
+    color:white;
+}
+
+.slike {
+padding-top:5px;
+padding-left:5px;
+padding-right:5px;
+padding-bottom:5px;
+
+}
+h2{
+    font-family:"Comic Sans MS";
+}
+
+h1 {
+    font-family: "Lucida Calligraphy";
+    color:#4d754d;
+}
+
+
+h3 {
+    color:#4d754d;
+}
