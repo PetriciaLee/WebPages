@@ -1,0 +1,44 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1250">
+<meta name="author" content="Iva Lipohar, 2.wd" />
+<meta name="description" content="Velika geografska otkrića" />
+<meta name="keywords" content="Velika geografska otkrića, Cristoforo Columbo, Fernardo Magellan, Vasco da Gama, James Cook" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Naslovna</title>
+<!-- TemplateEndEditable -->
+<link rel="stylesheet"type="text/css" href="../stil.css"/>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<body vlink="#d49a39" link="#000000" alink="#d49a39">
+<div id="glavni">
+<div id="logo"> </div>
+
+<div id="menu">
+
+<table width="1024" height="50" border="0">
+  <tr>
+    <td width="100">&nbsp;</td>
+    <td width="auto"><a href="../index.html">Naslovna</a></td>
+    <td width="auto"><a href="../columbo.html">Cristoforo Columbo</a></td>
+    <td width="auto"><a href="../magellan.html">Fernardo Magellan</a></td>
+    <td width="auto"><a href="../gama.html">Vasco da Gama</a></td>
+    <td width="auto"><a href="../cook.html">James Cook</a></td>
+    <td width="200">&nbsp;</td>
+  </tr>
+</table>
+</div>
+
+<div id="sadrzaj"><!-- TemplateBeginEditable name="sadrzaj" -->sadrzaj<!-- TemplateEndEditable -->
+
+</div>
+
+<div id="dno"> 
+<hr color="d49a39" />
+&copy; Iva Lipohar, rujan 2016.
+</div>
+</div>
+</body>
+</html>
