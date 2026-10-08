@@ -10,35 +10,35 @@ Below are previews, screenshots, and PDF documents highlighting a selection of t
 
 #### 1. Alaska
 
-* 📹 [Watch Video Demo](demo/alaska.mp4)
+* 📹 [Watch Video Demo](demos/alaska.mp4)
 
 #### 2. Škotska (Scotland)
 
-* 📸 [View Screenshot](demo/skotska.png)
+* 📸 [View Screenshot](demos/skotska.png)
 
-* 📄 [View PDF Document](demo/skotska.pdf)
+* 📄 [View PDF Document](demos/skotska.pdf)
 
 #### 3. Smotra
 
-* 📄 [View PDF Document](demo/smotra.pdf)
+* 📄 [View PDF Document](demos/smotra.pdf)
 
 #### 4. Travel
 
-* 📹 [Watch Video Demo](demo/travel.mp4)
+* 📹 [Watch Video Demo](demos/travel.mp4)
 
 #### 5. Nadrealizam (Surrealism)
 
-* 📄 [Main Page (PDF)](demo/pocetna.pdf)
+* 📄 [Main Page (PDF)](demos/pocetna.pdf)
 
 * **Subpages (PDFs):**
 
-  * 🎨 [Salvador Dalí](demo/dali.pdf)
+  * 🎨 [Salvador Dalí](demos/dali.pdf)
 
-  * 🎨 [Frida Kahlo](demo/frida.pdf)
+  * 🎨 [Frida Kahlo](demos/frida.pdf)
 
-  * 🎨 [René Magritte](demo/rene.pdf)
+  * 🎨 [René Magritte](demos/rene.pdf)
 
-  * 🎨 [Max Ernst](demo/mx.pdf)
+  * 🎨 [Max Ernst](demos/mx.pdf)
 
   * 🎨 [Joan Miró](demo/miro.pdf)
 
