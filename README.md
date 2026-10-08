@@ -40,8 +40,8 @@ Below are previews, screenshots, and PDF documents highlighting a selection of t
 
   * 🎨 [Max Ernst](demos/mx.pdf)
 
-  * 🎨 [Joan Miró](demo/miro.pdf)
+  * 🎨 [Joan Miró](demos/miro.pdf)
 
-  * 🎨 [Leonora Carrington](demo/Leonora.pdf)
+  * 🎨 [Leonora Carrington](demos/Leonora.pdf)
 
-  * 📬 [Contact Page](demo/Kontakt.pdf)
+  * 📬 [Contact Page](demos/Kontakt.pdf)
