@@ -18,30 +18,7 @@ Below are previews, screenshots, and PDF documents highlighting a selection of t
 
 * 📄 [View PDF Document](demos/skotska.pdf)
 
-#### 3. Smotra
-
-* 📄 [View PDF Document](demos/smotra.pdf)
-
-#### 4. Travel
+#### 3. Travel
 
 * 📹 [Watch Video Demo](demos/travel.mp4)
 
-#### 5. Nadrealizam (Surrealism)
-
-* 📄 [Main Page (PDF)](demos/pocetna.pdf)
-
-* **Subpages (PDFs):**
-
-  * 🎨 [Salvador Dalí](demos/dali.pdf)
-
-  * 🎨 [Frida Kahlo](demos/frida.pdf)
-
-  * 🎨 [René Magritte](demos/rene.pdf)
-
-  * 🎨 [Max Ernst](demos/mx.pdf)
-
-  * 🎨 [Joan Miró](demos/miro.pdf)
-
-  * 🎨 [Leonora Carrington](demos/Leonora.pdf)
-
-  * 📬 [Contact Page](demos/Kontakt.pdf)
